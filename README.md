@@ -12,7 +12,7 @@ This app includes multiple sections such as:
 ## ✨ Screenshots
 
 ![Getting Started](assets/Tuku_app_sceenshot/GettingStarted_screen.png)
-![Login Screen](assets/Tuku_app_sceenshot/loginScreenn.png)
+![Login Screen](assets/Tuku_app_sceenshot/loginScreen.png)
 ![Sign Up](assets/Tuku_app_sceenshot/SinUpScreen.png)
 ![OTP](assets/Tuku_app_sceenshot/OTPScreen.png)
 ![Home Page](assets/Tuku_app_sceenshot/homePageScreen.png)
